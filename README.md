@@ -1,6 +1,6 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
-# SIMOGen - Synthetic Indoor Moving Objects Generator
+# SIMOGen - Synthetic Indoor Moving Objects Generator (MAC OS Version)
 
 This project generate trajectory data for moving objects in indoor spaces.
 
@@ -12,11 +12,11 @@ The follwing tools are required to build OpenGDS/Conversion:
 ```
 1. clone this project
 2. mvn install -DskipTests
-3. java ui/SIMOGen.jar (excutable jar)
+3. java -jar -XstartOnFirstThread ui/SIMOGen.jar
 ```
 
 ## Usage
-![screenshots](image/main.PNG)
+![screenshots](image/main.png)
 1) Push "Browse IndoorGML" button
     ```
     For using this program, input IndoorGML data should have 'USAGE' information in the description of 'State'
