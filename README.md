@@ -1,7 +1,6 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
-# SIMOGen - Synthetic Indoor Moving Objects Generator
-(MAC OS Version)
+# SIMOGen - Synthetic Indoor Moving Objects Generator (MacOS version)
 
 This project generate trajectory data for moving objects in indoor spaces.
 
